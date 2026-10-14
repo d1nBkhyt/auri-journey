@@ -2,7 +2,7 @@
 
 **Auri’s Journey** is a mobile puzzle-based educational game designed to introduce beginners to foundational programming logic and computational thinking through interactive gameplay.
 
-🔗 **Live Demo:** [Auri’s Journey on GitHub Pages](https://theprime-x.github.io/auri-journey/)
+🔗 **Live Demo:** [Auri’s Journey on GitHub Pages](https://d1nbkhyt.github.io/auri-journey/)
 
 The application allows users to guide **Auri**, a small robot character, across a grid by arranging visual command blocks. Instead of requiring users to write programming syntax, the game focuses on the underlying logic behind programming, such as sequencing, direction, planning, problem decomposition, and step-by-step execution.
 
